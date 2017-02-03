@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/12 21:51:53.000.179,=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/19 20:01:07.000.265,=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/11 13:39:53.000.528,=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/18 09:45:56.000.132,=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/18 09:46:32.000.799,C:\E\#1 Delphi Projects\NoName\uMain.pas=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/18 09:46:32.000.799,C:\E\#1 Delphi Projects\NoName\uMain.fmx=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/12/18 09:46:37.000.643,C:\E\#1 Delphi Projects\NoName\NoName.dproj=C:\Users\JavaGuru\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/12/18 14:10:24.000.356,=C:\E\#1 Delphi Projects\NoName\Unit2.pas</Transaction>
+    <Transaction>2016/12/18 14:10:45.000.826,C:\E\#1 Delphi Projects\NoName\uAbout.pas=C:\E\#1 Delphi Projects\NoName\Unit2.pas</Transaction>
+    <Transaction>2016/12/18 14:10:45.000.826,C:\E\#1 Delphi Projects\NoName\uAbout.fmx=C:\E\#1 Delphi Projects\NoName\Unit2.fmx</Transaction>
+    <Transaction>2016/12/18 14:11:27.000.102,C:\E\#1 Delphi Projects\NoName\PhotoEffect.dproj=C:\E\#1 Delphi Projects\NoName\NoName.dproj</Transaction>
+    <Transaction>2016/12/18 14:55:43.000.239,C:\E\#1 Delphi Projects\Photo Effects\PhotoEffect.dproj=C:\E\#1 Delphi Projects\Photo Effects\PhotoEffects.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="SM-G355H"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
