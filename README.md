@@ -17,3 +17,7 @@ You can learn :
 
 This Photo Effects app is open source and free to use. You can download the source code from GitHub.
 
+https://delphi.uz
+https://www.facebook.com/wwwdelphiuz/?ref=bookmarks
+https://twitter.com/MrDelphiGuru
+https://plus.google.com/117439345479478485917
