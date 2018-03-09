@@ -87,7 +87,7 @@ var
 begin
   CameraComponent1.Active := True;
 
-  for i := 0 to ImageMain.ChildrenCount - 1 do
+  for I := 0 to ImageMain.ChildrenCount - 1 do
     begin
       if ImageMain.Children[I] is TEffect then
       begin
