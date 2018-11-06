@@ -18,7 +18,10 @@ You can learn :
 
 **How to share images from Delphi FireMonkey Application?**
 
-    procedure TFormMain.ShowShareSheetAction1BeforeExecute(Sender:TObject);begin ShowShareSheetAction1.Bitmap.Assign(ImageMain.MakeScreenshot);end;
+    procedure TFormMain.ShowShareSheetAction1BeforeExecute(Sender:TObject);
+    begin
+      ShowShareSheetAction1.Bitmap.Assign(ImageMain.MakeScreenshot);
+    end;
 
 [Article>>](https://delphi.uz/2017/02/03/delphi-open-source-codes/delphi-photo-effects-android-app-open-source/)
 
