@@ -21,3 +21,12 @@ You can learn :
     procedure TFormMain.ShowShareSheetAction1BeforeExecute(Sender:TObject);begin ShowShareSheetAction1.Bitmap.Assign(ImageMain.MakeScreenshot);end;
 
 [Article>>](https://delphi.uz/2017/02/03/delphi-open-source-codes/delphi-photo-effects-android-app-open-source/)
+
+I'm on social networks:
+- [FaceBook](https://www.facebook.com/wwwdelphiuz/)
+- [Twitter](https://twitter.com/MuminjonGuru)
+- [LinkedIn](https://www.linkedin.com/in/muminjon-abduraimov/)
+- [YouTube](https://youtube.com/MuminjonAbduraimov)
+
+My Android app which is built with Delphi FireMonkey
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.delphiapplications.delphiexamples)
