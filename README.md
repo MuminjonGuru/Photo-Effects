@@ -1,23 +1,23 @@
-# Photo-Effects
+## **Delphi Photo Effects Android App - Open Source**
 
-Delphi Photo Effects Android App. Open Source
+Simple photo effects program using the Delphi FireMonkey for Android OS
 
-Hello everyone! Today, we learn how to make simple photo effects program using Delphi FireMonkey for Android OS.
+## Click the start button and follow me!
 
-This Photo Effects app features : 
+![enter image description here](https://i0.wp.com/delphi.uz/wp-content/uploads/2017/02/delphi.uz-learn-delphi-android-development.png?resize=180,300&ssl=1)
+![enter image description here](https://i2.wp.com/delphi.uz/wp-content/uploads/2017/02/delphi.uz-learn-delphi-android-development-2.png?resize=180,300&ssl=1)
+![enter image description here](https://i1.wp.com/delphi.uz/wp-content/uploads/2017/02/delphi.uz-learn-delphi-android-development-3.png?resize=180,300&ssl=1)
 
-  More than 10 effects
-  You can share pictures from this app
-  
+This Photo Effects app features :
+-   More than 10 effects
+-   You can share pictures from this app
+
 You can learn :
+-   How to use Effect components
+-   How to share pictures from Delphi FireMonkey application
 
-  How to use Effect components
-  How to share pictures from Delphi FireMonkey application
-  and other interesting tips.
+**How to share images from Delphi FireMonkey Application?**
 
-This Photo Effects app is open source and free to use. You can download the source code from GitHub.
+    procedure TFormMain.ShowShareSheetAction1BeforeExecute(Sender:TObject);begin ShowShareSheetAction1.Bitmap.Assign(ImageMain.MakeScreenshot);end;
 
-https://delphi.uz
-https://www.facebook.com/wwwdelphiuz/?ref=bookmarks
-https://twitter.com/MrDelphiGuru
-https://plus.google.com/117439345479478485917
+[Article>>](https://delphi.uz/2017/02/03/delphi-open-source-codes/delphi-photo-effects-android-app-open-source/)
