@@ -14,7 +14,7 @@ This Photo Effects app features :
 
 You can learn :
 -   How to use Effect components
--   How to share pictures from Delphi FireMonkey application
+-   How to share pictures from the Delphi FireMonkey application
 
 **How to share images from Delphi FireMonkey Application?**
 
