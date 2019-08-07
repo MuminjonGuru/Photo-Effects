@@ -1,6 +1,19 @@
+### Show some :heart: and star the repo to support the project
+[![Contributors][contributors-shield]][https://github.com/MuminjonGuru/Photo-Effects/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/MuminjonGuru/Photo-Effects/fork]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ## **Delphi Photo Effects Android App - Open Source**
 
 Simple photo effects program using the Delphi FireMonkey for Android OS
+
+### Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/iampawan/FlutterExampleApps) [![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/iampawan/FlutterExampleApps/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/FlutterExampleApps.svg?style=social&label=Watch)](https://github.com/iampawan/FlutterExampleApps) [![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/FlutterExampleApps)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/imthepk.svg?style=social)](https://twitter.com/imthepk)
 
 ## Click the start button and follow me!
 
