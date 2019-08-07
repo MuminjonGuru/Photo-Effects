@@ -1,3 +1,5 @@
+### Show some :heart: and star the repo to support the project
+
 ## **Delphi Photo Effects Android App - Open Source**
 
 Simple photo effects program using the Delphi FireMonkey for Android OS
