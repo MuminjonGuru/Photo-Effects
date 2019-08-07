@@ -1,4 +1,4 @@
-### Show some :heart: and star the repo to support the project
+## Show some :heart: and star the repo to support the project
 
 ## **Delphi Photo Effects Android App - Open Source**
 
