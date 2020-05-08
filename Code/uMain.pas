@@ -63,7 +63,6 @@ Uses
   uAbout;
 
 {$R *.fmx}
-{$R *.NmXhdpiPh.fmx ANDROID}
 
 procedure TFormMain.BtnInfoClick(Sender: TObject);
 begin
@@ -75,6 +74,7 @@ end;
 procedure TFormMain.CameraComponent1SampleBufferReady(Sender: TObject;
   const ATime: TMediaTime);
 begin
+  // synchronize the process
   TThread.Synchronize(Nil, procedure begin
      CameraComponent1.SampleBufferToBitmap(ImageMain.Bitmap, True);
   end);

@@ -2,8 +2,8 @@ object FormMain: TFormMain
   Left = 0
   Top = 0
   Caption = 'Photo Effect'
-  ClientHeight = 520
-  ClientWidth = 340
+  ClientHeight = 608
+  ClientWidth = 399
   StyleBook = StyleBook1
   FormFactor.Width = 320
   FormFactor.Height = 480
@@ -12,13 +12,13 @@ object FormMain: TFormMain
   DesignerMasterStyle = 3
   object ToolBarTop: TToolBar
     Align = MostTop
-    Size.Width = 340.000000000000000000
+    Size.Width = 399.000000000000000000
     Size.Height = 48.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 0
     object BtnPopupMenu: TButton
       Align = MostRight
-      Position.X = 292.000000000000000000
+      Position.X = 351.000000000000000000
       Size.Width = 48.000000000000000000
       Size.Height = 48.000000000000000000
       Size.PlatformDefault = False
@@ -36,7 +36,6 @@ object FormMain: TFormMain
       Size.PlatformDefault = False
       StyleLookup = 'actiontoolbutton'
       TabOrder = 1
-      Visible = True
     end
     object BtnInfo: TButton
       Align = MostLeft
@@ -53,14 +52,14 @@ object FormMain: TFormMain
       item
       end>
     Align = Client
-    Size.Width = 340.000000000000000000
-    Size.Height = 472.000000000000000000
+    Size.Width = 399.000000000000000000
+    Size.Height = 560.000000000000000000
     Size.PlatformDefault = False
     object BlurEffect: TBlurEffect
       Softness = 0.300000011920929000
     end
     object GlowEffect: TGlowEffect
-      Softness = 0.400000005960464400
+      Softness = 0.400000005960464500
       GlowColor = claGold
       Opacity = 0.899999976158142100
     end
@@ -73,7 +72,7 @@ object FormMain: TFormMain
       BandIntensity = 0.200000002980232200
     end
     object InnerGlowEffect: TInnerGlowEffect
-      Softness = 0.400000005960464400
+      Softness = 0.400000005960464500
       GlowColor = claGold
       Opacity = 0.899999976158142100
     end
@@ -90,7 +89,7 @@ object FormMain: TFormMain
     end
     object SmoothMagnifyEffect: TSmoothMagnifyEffect
       InnerRadius = 0.200000002980232200
-      OuterRadius = 0.400000005960464400
+      OuterRadius = 0.400000005960464500
       Magnification = 2.000000000000000000
       AspectRatio = 1.500000000000000000
     end
@@ -38009,14 +38008,14 @@ object FormMain: TFormMain
           63742E426F74746F6D0500000000000080BC094000000A54696E742E5368696E
           650E00000000}
       end>
-    Left = 176
-    Top = 272
+    Left = 216
+    Top = 112
   end
   object CameraComponent1: TCameraComponent
     Kind = FrontCamera
     OnSampleBufferReady = CameraComponent1SampleBufferReady
-    Left = 128
-    Top = 152
+    Left = 112
+    Top = 112
   end
   object MultiViewRight: TMultiView
     DrawerOptions.Placement = Right
@@ -38065,8 +38064,8 @@ object FormMain: TFormMain
     TabOrder = 5
   end
   object ActionList1: TActionList
-    Left = 64
-    Top = 240
+    Left = 312
+    Top = 112
     object ShowShareSheetAction1: TShowShareSheetAction
       Category = 'Media Library'
       OnBeforeExecute = ShowShareSheetAction1BeforeExecute

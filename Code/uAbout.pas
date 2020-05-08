@@ -50,14 +50,14 @@ begin
   Intent.setAction(TJIntent.JavaClass.ACTION_VIEW);
   Intent.setData
     (StrToJURI
-    ('https://delphi.uz'));
+    ('https://muminjon.com'));
   TAndroidHelper.Activity.startActivity(Intent);
 {$ENDIF}
 end;
 
 procedure TFormAbout.FormCreate(Sender: TObject);
 begin
-  BannerAd1.AdUnitID := 'ca-app-pub-7303908544500004/8781266171';
+  BannerAd1.AdUnitID := '<your_ad_id>';
 end;
 
 procedure TFormAbout.FormShow(Sender: TObject);
