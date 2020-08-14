@@ -11,7 +11,7 @@ Simple photo effects program using the Delphi FireMonkey for Android OS
 ![enter image description here](https://i1.wp.com/delphi.uz/wp-content/uploads/2017/02/delphi.uz-learn-delphi-android-development-3.png?resize=180,300&ssl=1)
 
 This Photo Effects app features :
--   More than 10 effects
+-   More than ten effects
 -   You can share pictures from this app
 
 You can learn :
